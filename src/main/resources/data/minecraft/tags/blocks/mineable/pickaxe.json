@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "terracottabricks:black_terracotta_bricks",
+    "terracottabricks:blue_terracotta_bricks",
+    "terracottabricks:brown_terracotta_bricks",
+    "terracottabricks:cyan_terracotta_bricks",
+    "terracottabricks:gray_terracotta_bricks",
+    "terracottabricks:green_terracotta_bricks",
+    "terracottabricks:light_blue_terracotta_bricks",
+    "terracottabricks:light_gray_terracotta_bricks",
+    "terracottabricks:lime_terracotta_bricks",
+    "terracottabricks:magenta_terracotta_bricks",
+    "terracottabricks:orange_terracotta_bricks",
+    "terracottabricks:pink_terracotta_bricks",
+    "terracottabricks:purple_terracotta_bricks",
+    "terracottabricks:red_terracotta_bricks",
+    "terracottabricks:white_terracotta_bricks",
+    "terracottabricks:yellow_terracotta_bricks"
+  ]
+}
